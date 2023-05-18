@@ -8,12 +8,14 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
-Mondays and Wednesdays (6:40pm to 8:00pm @ 3SC 265)   
+Tuesdays and Thursdays (7:00pm to 8:20pm @ [Zoom](https://cmu.zoom.us/j/98360817877?pwd=QllWZW1Ld01ncVpVRkk2c1Z1YjhDQT09))   
 [Daniel Justice](https://thequantumturtle.github.io/)
-### TA: <a href="https://r0cketr1kky.github.io/" target="_blank">Rakshit Naidu</a>
+
+[Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html)
+
 
 ## Location
-Class room is at 3SC 265. The class is in person but will also be streamed via Zoom (Link on Piazza). I encourage you to come to class if it falls within your personal risk management system. 
+Class room is fully remote. The class will be streamed via [Zoom](https://cmu.zoom.us/j/98360817877?pwd=QllWZW1Ld01ncVpVRkk2c1Z1YjhDQT09). 
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
@@ -39,20 +41,18 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 
 
 ## Schedule
-[**Day 1**](syllabus/1-Introduction.html) (08/29): Introduction  
-[**Day 2**](syllabus/2-One-Qbit.html) (08/31): Qubits  
-[**Day 3**](syllabus/3-Multi-Qbits.html) (09/05): Multiple Qubits  
-[**Day 4**](syllabus/4-Teleportation.html) (09/07): Quantum Teleportation  
-[**Day 5**](syllabus/5-BB84.html) (09/12): BB84  
-[**Day 6**](syllabus/6-Arithmetic.html) (09/14): Quantum Arithmetic and Logic  
-[**Day 7**](syllabus/7-Amp-Amp.html) (09/19): Amplitude Amplification  
-[**Day 8**](syllabus/8-QFT.html) (09/21): QFT: Quantum Fourier Transform  
-[**Day 9**](syllabus/9-Quantum-Phase-Estimation.html) (09/26): Quantum Phase Estimation  
-[**Day 10**](syllabus/10-Real-Data.html) (09/28): Real Data  
-[**Day 11**](syllabus/11-Quantum-Search.html) (10/03): Quantum Search  
-[**Day 12**](syllabus/12-Daniel-Koch.html) (10/05): Dr. Daniel Koch, AFRL  
-[**Day 13**](syllabus/13-Shors.html) (10/10): Shor's Factoring Algorithm  
-[**Day 14**](syllabus/) (10/12): Advanced Topics  
-
+- [**Day 1**](syllabus/1-Introduction.html) (05/16): Intro & Intro to Quantum Computing
+- [**Day 2**](syllabus/2-Fundamentals-of-Quantum-Computing-Continued.html) (05/18): Fundamentals of Quantum Computing Continued
+- [**Day 3**](syllabus/3-Introduction-to-AI-ML-and-DL.html) (05/23): Introduction to AI, ML and DL
+- [**Day 4**](syllabus/4-Fundamentals-of-Generative-Models.html) (05/25): Fundamentals of Generative Models
+- [**Day 5**](syllabus/5-Fundamentals-of-LLMs.html) (05/30): Fundamentals of LLMs
+- [**Day 6**](syllabus/6-Software-Implementation-of-Generative-AIs.html) (06/01): Software Implementation of Generative AIs
+- [**Day 7**](syllabus/7-LLM-Implementations.html) (06/06): LLM Implementations
+- [**Day 8**](syllabus/8-Quantum-Programming-Languages.html) (06/08): Quantum Programming Languages
+- [**Day 9**](syllabus/9-Quantum-Generative-Models.html) (06/13): Quantum Generative Models
+- [**Day 10**](syllabus/10-Langchain.html) (06/15): Langchain
+- [**Day 11**](syllabus/11-LLM-Data-Preparation-and-Finetuning.html) (06/20): LLM Data Preparation and Finetuning
+- [**Day 12**](syllabus/12-LLMs-in-Machine-Learning-and-Quantum-Computing.html) (06/22): LLMs in Machine Learning and Quantum Computing
+- **Day 13** (06/27): OPEN - Guest Lecture
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*

@@ -1,0 +1,49 @@
+I"�<h1> Generative AI for Qauntum Computing and Machine Learning Software Implementations</h1>
+
+<p><img src="/2023-GenerativeAIForQuantum/style/books_header.jpg" width="100%" /></p>
+
+<p>Tuesdays and Thursdays (7:00pm to 8:20pm @ <a href="https://cmu.zoom.us/j/98360817877?pwd=QllWZW1Ld01ncVpVRkk2c1Z1YjhDQT09">Zoom</a>) <br />
+<a href="https://thequantumturtle.github.io/">Daniel Justice</a>
+<a href="http://mlsp.cs.cmu.edu/people/rsingh/index.html">Rita Singh</a></p>
+
+<h2 id="location">Location</h2>
+<p>Class room is at 3SC 265. The class is in person but will also be streamed via Zoom (Link on Piazza). I encourage you to come to class if it falls within your personal risk management system.</p>
+
+<h2 id="course-goals">Course Goals</h2>
+<p>Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware.</p>
+
+<h2 id="grading">Grading</h2>
+<p>90% Homeworks/Quizzes, 10% Participation.</p>
+
+<h2 id="quizzes">Quizzes</h2>
+<p>Each week a quiz will be given. The worst one will not be counted.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Python, Jupyter Notebooks, Linear Algebra</p>
+
+<p>Students will <strong>not</strong> need an understanding of quantum mechanics.</p>
+
+<p>Note: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the group’s overall skill level. Adequate notice will be given.</p>
+
+<h2 id="basic-course-structure">Basic course structure</h2>
+
+<p>Due to this being a mini, we will do our best to skirt into a new topic each and every day.</p>
+
+<h2 id="schedule">Schedule</h2>
+<p><a href="syllabus/1-Introduction.html"><strong>Day 1</strong></a> (08/29): Introduction<br />
+<a href="syllabus/2-One-Qbit.html"><strong>Day 2</strong></a> (08/31): Qubits<br />
+<a href="syllabus/3-Multi-Qbits.html"><strong>Day 3</strong></a> (09/05): Multiple Qubits<br />
+<a href="syllabus/4-Teleportation.html"><strong>Day 4</strong></a> (09/07): Quantum Teleportation<br />
+<a href="syllabus/5-BB84.html"><strong>Day 5</strong></a> (09/12): BB84<br />
+<a href="syllabus/6-Arithmetic.html"><strong>Day 6</strong></a> (09/14): Quantum Arithmetic and Logic<br />
+<a href="syllabus/7-Amp-Amp.html"><strong>Day 7</strong></a> (09/19): Amplitude Amplification<br />
+<a href="syllabus/8-QFT.html"><strong>Day 8</strong></a> (09/21): QFT: Quantum Fourier Transform<br />
+<a href="syllabus/9-Quantum-Phase-Estimation.html"><strong>Day 9</strong></a> (09/26): Quantum Phase Estimation<br />
+<a href="syllabus/10-Real-Data.html"><strong>Day 10</strong></a> (09/28): Real Data<br />
+<a href="syllabus/11-Quantum-Search.html"><strong>Day 11</strong></a> (10/03): Quantum Search<br />
+<a href="syllabus/12-Daniel-Koch.html"><strong>Day 12</strong></a> (10/05): Dr. Daniel Koch, AFRL<br />
+<a href="syllabus/13-Shors.html"><strong>Day 13</strong></a> (10/10): Shor’s Factoring Algorithm<br />
+<a href="syllabus/"><strong>Day 14</strong></a> (10/12): Advanced Topics</p>
+
+<p><em>Schedule with assignments, readings, etc. can be found <a href="schedule.html">here</a></em></p>
+:ET
