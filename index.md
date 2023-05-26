@@ -6,7 +6,7 @@ menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
 
-<img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/quantum-camel-2.png" width="100%">
 
 Tuesdays and Thursdays (7:00pm to 8:20pm @ [Zoom](https://cmu.zoom.us/j/98360817877?pwd=QllWZW1Ld01ncVpVRkk2c1Z1YjhDQT09))   
 [Daniel Justice](https://thequantumturtle.github.io/)
