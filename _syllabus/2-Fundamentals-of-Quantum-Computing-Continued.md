@@ -1,7 +1,7 @@
 ---
 week: 1
 day: May 18
-title: Qubits
+title: Understanding the fundamentals of qubits, superposition, and entanglement.
 # tags: [qubits, superposition, entanglement]
 image: books1.jpg
 ---
@@ -9,18 +9,37 @@ image: books1.jpg
 ## Before Class
 
 ### Books
-#### Main Book: 
-- [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)   
-    We will be working mostly out of this book.
 
-#### Extra Reading:
-- [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)    
-    This book gives a great explanation on how to conceptualize Quantum Computers. First few chapters are great if you don't feel confident with the math.
-- [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)    
-    A very computer science take on quantum computers. A good read if you are hoping to do research.
+#### Main Book:
+
+    - [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)
+        This book will serve as our primary resource throughout the course. It offers comprehensive coverage of essential algorithms and programming techniques for quantum computers. The Octopus Book provides a practical approach to understanding and implementing quantum computation, making it highly valuable for our learning journey. We will extensively reference and study the content from this book to develop a strong foundation in quantum computing.
+
+    #### Extra Reading:
+    - [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)
+        This book provides a comprehensive explanation of how to conceptualize Quantum Computers. It is especially beneficial for those who may not feel confident with the mathematical aspects of the subject. The initial chapters offer valuable insights to establish a solid foundation.
+
+    - [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
+        This book takes a computer science-oriented approach to quantum computers. It is highly recommended for individuals who aspire to conduct research in the field. The content explores various aspects of quantum computing from a computer science perspective and serves as an interesting resource for gaining a deeper understanding.
 
 ### Notes
-- Reminder to bring computer to class.
+
+- Reminder to bring your computer to class for engaging in practical exercises and coding sessions to deepen understanding.
 
 ### Summary
-In this lecture, we will dive into the fundamental concept of qubits. We will explore how qubits differ from classical bits and how they allow for the representation of quantum information. We will also discuss the principles of superposition and entanglement, which are key properties of qubits that enable quantum computation.
+
+In the first week of our graduate-level course on Quantum Computing, we will delve into the fundamental concept of qubits. Qubits differ from classical bits in that they allow for the representation of quantum information. Through a comprehensive exploration, we will gain a solid understanding of how qubits are employed in quantum computation.
+
+We will begin by discussing the basic principles of qubits, focusing on their unique properties that enable quantum computing. One of these principles is superposition, which allows qubits to exist in multiple states simultaneously. We will explore the mathematical representation of superposition and its implications in quantum algorithms.
+
+Another crucial property we will cover is entanglement. Entanglement is a phenomenon where the state of one qubit becomes dependent on the state of another, even if they are physically separated. This non-local correlation is a powerful resource in quantum computation and can be utilized for various applications, such as quantum teleportation and quantum cryptography.
+
+Throughout the week, we will also refer to the recommended reading materials to supplement our understanding. The "Octopus Book" will serve as our primary textbook, providing in-depth explanations and essential algorithms for programming quantum computers.
+
+For those who need additional support in grasping the concepts, the "Blue Book" offers a conceptual perspective on quantum computers, focusing on explanations rather than intensive mathematical formalism. It is highly recommended for building a strong foundation.
+
+Furthermore, the "Gentle Book" takes a computer science-oriented approach to quantum computing, making it an interesting resource for those interested in pursuing research in the field.
+
+To actively engage with the course material, please remember to bring your computer to class. We will have practical exercises and coding sessions to deepen our understanding of qubits and their applications.
+
+Join us in this exciting journey into the world of quantum computing, as we explore the fascinating realm of qubits, superposition, and entanglement.
