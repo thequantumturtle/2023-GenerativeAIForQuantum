@@ -3,7 +3,7 @@ week: 1
 day: May 18
 title: Understanding the fundamentals of qubits, superposition, and entanglement.
 # tags: [qubits, superposition, entanglement]
-image: books1.jpg
+image: DALLE_2023_prompt_mysterious_and_futuristic_visualization_of_quantum_qubits_entanglement.png
 ---
 
 ### ChatGPT May 24 version. prompts used:
