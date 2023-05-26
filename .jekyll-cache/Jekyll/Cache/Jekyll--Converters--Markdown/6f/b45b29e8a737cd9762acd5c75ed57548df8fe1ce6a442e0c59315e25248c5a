@@ -1,59 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Fundamentals of Generative Models</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&subset=latin-ext" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Inconsolata&subset=latin-ext" rel="stylesheet">
-	<link rel="stylesheet" href="/2023-GenerativeAIForQuantum/style/styles.css">
-</head>
-<body>
-	<div class="column">
-		<p class="subtitle">17-659 —  Generative AI for Quantum Computing and Machine Learning Software Implementations — Summer Semester 2023</p>
-<nav>
-	<ul>
-		
-		
-		
-		<li><a href="/2023-GenerativeAIForQuantum/404.html"></a></li>
-		
-		
-		
-		<li><a href="/2023-GenerativeAIForQuantum/feed.xml"></a></li>
-		
-		
-		
-		<li><a href="/2023-GenerativeAIForQuantum/">Basic info</a></li>
-		
-		
-		
-		<li><a href="/2023-GenerativeAIForQuantum/schedule.html">Schedule</a></li>
-		
-		
-		
-		<li><a href="/2023-GenerativeAIForQuantum/requirements.html">Course requirements</a></li>
-		
-		
-	</ul>
-</nav>
-
-
-<p><b>May 25 / Week 2</b></p>
-
-<h1>
-	Fundamentals of Generative Models
-	
-</h1>
-
-
-
-<div style=" height: 200px;">
-  <img src="/2023-GenerativeAIForQuantum/style/lecture-04.png" alt="Banner Image" style="object-fit: cover; width: 100%; height: 100%;">
-</div>
-
-
-<p>A Lecture by Werner Herzog</p>
+I"�	<p>A Lecture by Werner Herzog</p>
 
 <p>In the enigmatic realm of the digital frontier, where shadows dance with light and creations spring forth from the depths of algorithms, join me on a transcendental voyage into the captivating universe of “Fundamentals of Generative Models.”</p>
 
@@ -76,25 +21,4 @@
 <p>Duration: 2 hours</p>
 
 <p>Note: The lecture will be conducted in English. No prior knowledge of generative models is required, only an open mind and a curiosity for the infinite possibilities of artistic creation.</p>
-
-
-
-
-
-
-
-<script>
-document.body.onkeyup = function(e){
-if (e.keyCode == '37') { window.location = '/2023-GenerativeAIForQuantum/syllabus/3-Introduction-to-AI-ML-and-DL.html'; }
-if (e.keyCode == '39') { window.location = '/2023-GenerativeAIForQuantum/syllabus/5-Fundamentals-of-LLMs.html'; }
-};
-</script>
-
-<div class="unitPagination">
-	<a href="/2023-GenerativeAIForQuantum/syllabus/3-Introduction-to-AI-ML-and-DL.html" class="prev">⇦ previous week</a>
-	<a href="/2023-GenerativeAIForQuantum/syllabus/5-Fundamentals-of-LLMs.html" class="next">next week ⇨</a>
-</div>
-
-	</div>
-</body>
-</html>
+:ET
