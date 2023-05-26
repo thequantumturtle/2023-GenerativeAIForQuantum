@@ -9,9 +9,6 @@ image: DALLE_2023_prompt_mysterious_and_futuristic_visualization_of_quantum_qubi
 ### ChatGPT May 24 version. prompts used:
 
 - You are going to publish a website for teaching Quantum computing to a group of graduate level students. So, Imagine yourself as an expert in Quantum Computing and based on the information provided after ---BLOG--- make sure create a very detailed summary of what will be taught in the course using at least 300 words. Reply only the modified post in Jekyll formatted output.
-
----BLOG---
-
 - Expand more on extra reading part and output only the raw Jekyll formatted output
 - Expand more on the main book
 - Expand more on Notes. Limit response to 30 words
