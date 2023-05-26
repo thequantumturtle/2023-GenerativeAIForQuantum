@@ -22,15 +22,16 @@ image: DALLE_2023_prompt_mysterious_and_futuristic_visualization_of_quantum_qubi
 
 #### Main Book:
 
-    - [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)
-        This book will serve as our primary resource throughout the course. It offers comprehensive coverage of essential algorithms and programming techniques for quantum computers. The Octopus Book provides a practical approach to understanding and implementing quantum computation, making it highly valuable for our learning journey. We will extensively reference and study the content from this book to develop a strong foundation in quantum computing.
+- [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)
+  This book will serve as our primary resource throughout the course. It offers comprehensive coverage of essential algorithms and programming techniques for quantum computers. The Octopus Book provides a practical approach to understanding and implementing quantum computation, making it highly valuable for our learning journey. We will extensively reference and study the content from this book to develop a strong foundation in quantum computing.
 
-    #### Extra Reading:
-    - [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)
-        This book provides a comprehensive explanation of how to conceptualize Quantum Computers. It is especially beneficial for those who may not feel confident with the mathematical aspects of the subject. The initial chapters offer valuable insights to establish a solid foundation.
+#### Extra Reading:
 
-    - [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
-        This book takes a computer science-oriented approach to quantum computers. It is highly recommended for individuals who aspire to conduct research in the field. The content explores various aspects of quantum computing from a computer science perspective and serves as an interesting resource for gaining a deeper understanding.
+- [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)
+  This book provides a comprehensive explanation of how to conceptualize Quantum Computers. It is especially beneficial for those who may not feel confident with the mathematical aspects of the subject. The initial chapters offer valuable insights to establish a solid foundation.
+
+- [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
+  This book takes a computer science-oriented approach to quantum computers. It is highly recommended for individuals who aspire to conduct research in the field. The content explores various aspects of quantum computing from a computer science perspective and serves as an interesting resource for gaining a deeper understanding.
 
 ### Notes
 
