@@ -3,7 +3,7 @@ week: 2
 day: May 23
 title: Introduction to AI, ML and DL
 # tags: [AI, machine learning, deep learning]
-image: lecture_3_image_photoleap.jpg
+image: lecture_3_image_photoleap.png
 ---
 
 (re-written in the style of Jean-Luc Picard, by ChatGPT) - Sarah Long
