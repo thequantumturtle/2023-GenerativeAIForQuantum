@@ -3,7 +3,7 @@ week: 2
 day: May 25
 title: Fundamentals of Generative Models
 # tags: [generative models, GANs, VAEs]
-image: lecture-04.jpg
+image: lecture-04.png
 ---
 
 A Lecture by Werner Herzog
