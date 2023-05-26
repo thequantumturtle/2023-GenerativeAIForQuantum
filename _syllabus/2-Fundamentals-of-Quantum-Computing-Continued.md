@@ -3,6 +3,7 @@ week: 1
 day: May 18
 title: Qubits
 # tags: [qubits, superposition, entanglement]
+image: books1.jpg
 ---
 
 ## Before Class

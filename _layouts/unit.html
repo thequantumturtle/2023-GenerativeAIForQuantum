@@ -12,7 +12,14 @@ layout: default
 	{% endfor %}
 </h1>
 
+{% if page.image %}
+{% assign image_url = site.baseurl | append: '/style/' | append: page.image %}
+<div style=" height: 200px;">
+  <img src="{{ image_url }}" alt="Banner Image" style="object-fit: cover; width: 100%; height: 100%;">
+</div>
+{% else %}
 <img src="{{ site.baseurl }}/style/books1.jpg" width="100%">
+{% endif %}
 
 {{content}}
 
@@ -36,8 +43,8 @@ layout: default
 
 <script>
 document.body.onkeyup = function(e){
-if (e.keyCode == '37') { window.location = '{{prevurl}}'; }
-if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
+if (e.keyCode == '37') { window.location = '{{ site.baseurl }}{{prevurl}}'; }
+if (e.keyCode == '39') { window.location = '{{ site.baseurl }}{{nexturl}}'; }
 };
 </script>
 

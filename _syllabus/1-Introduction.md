@@ -3,6 +3,7 @@ week: 1
 day: May 16
 title: Introduction
 # tags: [hello]
+image: books_corner.jpg
 ---
 
 
