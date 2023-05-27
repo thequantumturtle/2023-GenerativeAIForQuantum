@@ -3,7 +3,7 @@ week: 6
 day: June 22
 title: LLMs in Machine Learning and Quantum Computing
 # tags: [large language models, machine learning, quantum computing]
-image: dalle.png
+![Quantum Computing and Generative AI](dalle.png){: width="300px" height="300px"}
 ---
 
 Welcome to Lecture 12 of the course "Applying Generative AI in Quantum Computing & Machine Learning Software Implementation." In this lecture, we will dive into the fascinating realm of Quantum Machine Learning (QML) algorithms and explore their practical implementations. This session will provide you with a comprehensive overview of the intersection between quantum computing and machine learning, highlighting the unique advantages and challenges of QML.
