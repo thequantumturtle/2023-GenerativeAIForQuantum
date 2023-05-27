@@ -3,7 +3,7 @@ week: 7
 day: June 27
 title: OPEN - Guest Lecture
 # tags: [machine learning, quantum computing]
-image: guest.jpg
+image: guest.png
 ---
 
 In this guest lecture, we are delighted to welcome [Guest Lecturer Name], a renowned expert in the field of applying generative artificial intelligence (AI) techniques in the context of quantum computing and machine learning software implementation. This lecture aims to provide students with a comprehensive understanding of how generative AI can be harnessed to enhance the capabilities and efficiency of quantum computing and machine learning algorithms.
