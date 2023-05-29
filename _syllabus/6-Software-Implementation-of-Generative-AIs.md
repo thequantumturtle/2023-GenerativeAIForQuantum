@@ -3,7 +3,41 @@ week: 3
 day: June 1
 title: Software Implementation of Generative AIs
 # tags: [generative AI models, TensorFlow, PyTorch, Keras]
-image: books1.jpg
+image: old-greek-poet-quantuars.png
 ---
+\
+We describe this lecture with the below poem:
+  
+  \
+In a quantum realm of minds engaged,  
+A lecture's set, where knowledge is arranged.  
+June 1st, the chosen date for our meet,  
+To delve into the depths of this feat.  
 
-In this lecture, scheduled for June 1, we will focus on the software implementation of generative AI models. We will explore popular machine learning frameworks such as TensorFlow, PyTorch, and Keras, which provide powerful tools and libraries for developing and training generative AI models. We will discuss the key concepts and techniques involved in implementing and optimizing these models using these frameworks. Additionally, we will examine practical examples and case studies to understand the software engineering aspects of working with generative AI models.
+Generative AI, the focal theme,  
+A software realm where dreams can gleam.  
+Through TensorFlow, PyTorch, and Keras,  
+Frameworks strong, crafting neural layers.  
+
+Machine learning's power we'll embrace,  
+Unleashing models with creative grace.  
+With libraries robust, we'll shape and mold,  
+Generative wonders, stories untold.  
+
+Concepts key, we'll explore and unfold,  
+Techniques for implementation, bold.  
+Optimization's path, we'll navigate,  
+Fine-tuning models, to elevate.  
+
+Practical examples we'll dissect,  
+Case studies shared to help us connect.  
+Software engineering, crucial part,  
+To work with models, a virtuoso's art.  
+
+Join this quantum computing class,  
+Where generative AI will amass.  
+Through code and logic, we'll strive to see,  
+The limitless potential that can be.  
+  
+  \
+\- Greek Poet Quantuars (assisted by ChatGPT)
